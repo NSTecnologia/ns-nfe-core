@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ns-nfe-core</id>
+    <version>1.0.6</version>
+    <authors>Integração @ NS Tecnologia</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <icon>logo.png</icon>
+    <description>Biblioteca para comunicação com a API de NFe da NS Tecnologia.</description>
+    <copyright>NS Tecnologia</copyright>
+    <repository type="GitHub" url="https://github.com/NSTecnologia/ns-nfe-core" />
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\fernando.konflanz\GitHub\ns-nfe-core\ns-nfe-core\bin\Debug\net5.0\ns-nfe-core.runtimeconfig.json" target="lib\net5.0\ns-nfe-core.runtimeconfig.json" />
+    <file src="C:\Users\fernando.konflanz\GitHub\ns-nfe-core\ns-nfe-core\bin\Debug\net5.0\ns-nfe-core.dll" target="lib\net5.0\ns-nfe-core.dll" />
+    <file src="C:\Users\fernando.konflanz\Desktop\logo.png" target="logo.png" />
+  </files>
+</package>

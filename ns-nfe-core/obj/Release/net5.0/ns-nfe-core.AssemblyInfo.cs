@@ -12,15 +12,15 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("NS Tecnologia")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("NS Tecnologia")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Biblioteca para comunicação com a API de NFe da NS Tecnologia.")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.6.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.6")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ns-nfe-core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ns-nfe-core")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.6.0")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/NSTecnologia/ns-nfe-core")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/konflanzzz/ns-nfe-core")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 

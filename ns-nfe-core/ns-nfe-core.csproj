@@ -7,16 +7,25 @@
     <StartupObject>ns_nfe_core.Program</StartupObject>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <Authors>Fernando Konflanz @ NS Tecnologia</Authors>
+    <Authors>Integração @ NS Tecnologia</Authors>
     <Company>NS Tecnologia</Company>
     <Description>Biblioteca para comunicação com a API de NFe da NS Tecnologia.</Description>
     <Copyright>NS Tecnologia</Copyright>
-    <RepositoryUrl>https://github.com/konflanzzz/ns-nfe-core</RepositoryUrl>
+    <RepositoryUrl>https://github.com/NSTecnologia/ns-nfe-core</RepositoryUrl>
     <RepositoryType>GitHub</RepositoryType>
+    <Version>1.0.6</Version>
+    <PackageIcon>logo.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\Desktop\logo.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
