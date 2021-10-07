@@ -269,9 +269,9 @@ Ainda com esta biblioteca, é possivel acessar método utilitários da API de NF
         
 ### Consultar Status de Web Service
 
-    using ns_nfe_core.src.nfe.utilitarios;
+        using ns_nfe_core.src.nfe.utilitarios;
     
-            static async Task consultarWS()
+        static async Task consultarWS()
         {
             var requisicaoConsultarWS = new ConsultarWebService.Body
             {
@@ -327,7 +327,6 @@ Ainda com esta biblioteca, é possivel acessar método utilitários da API de NF
         
         static async Task listarNSNRec()
         {
-
             var requisicaoListarNSNRec = new ListarNSNRec.Body
             {
                 chNFe = "43210914139046000109550000000257891100116493"
