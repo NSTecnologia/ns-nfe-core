@@ -9,7 +9,7 @@ using ns_nfe_core.src.eventos;
 
 namespace ns_nfe_core.src.nfe.eventos
 {
-    class Cancelamento
+    public class Cancelamento
     {
         public class Body
         {

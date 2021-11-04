@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fernando.konflanz\\GitHub\\ns-nfe-core\\ns-nfe-core\\ns-nfe-core.csproj": {}
+    "C:\\NSIntegracao\\nscorenuget\\ns-nfe-core\\ns-nfe-core\\ns-nfe-core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fernando.konflanz\\GitHub\\ns-nfe-core\\ns-nfe-core\\ns-nfe-core.csproj": {
-      "version": "1.0.6",
+    "C:\\NSIntegracao\\nscorenuget\\ns-nfe-core\\ns-nfe-core\\ns-nfe-core.csproj": {
+      "version": "1.0.9",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fernando.konflanz\\GitHub\\ns-nfe-core\\ns-nfe-core\\ns-nfe-core.csproj",
+        "projectUniqueName": "C:\\NSIntegracao\\nscorenuget\\ns-nfe-core\\ns-nfe-core\\ns-nfe-core.csproj",
         "projectName": "ns-nfe-core",
-        "projectPath": "C:\\Users\\fernando.konflanz\\GitHub\\ns-nfe-core\\ns-nfe-core\\ns-nfe-core.csproj",
-        "packagesPath": "C:\\Users\\fernando.konflanz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fernando.konflanz\\GitHub\\ns-nfe-core\\ns-nfe-core\\obj\\",
+        "projectPath": "C:\\NSIntegracao\\nscorenuget\\ns-nfe-core\\ns-nfe-core\\ns-nfe-core.csproj",
+        "packagesPath": "C:\\Users\\Max.Ferraz\\.nuget\\packages\\",
+        "outputPath": "C:\\NSIntegracao\\nscorenuget\\ns-nfe-core\\ns-nfe-core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\fernando.konflanz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Max.Ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

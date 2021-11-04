@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace ns_nfe_core.src.nfe.eventos
 {
-    class CartaCorrecao
+    public class CartaCorrecao
     {
         public class Body
         {

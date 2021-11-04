@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ns_nfe_core.src.nfe.utilitarios
 {
-    class ListarNSNRec
+    public class ListarNSNRec
     {
         public class Body
         {

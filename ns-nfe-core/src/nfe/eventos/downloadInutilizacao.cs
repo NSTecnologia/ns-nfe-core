@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ns_nfe_core.src.nfe.eventos
 {
-    class DownloadInutilizacao
+    public class DownloadInutilizacao
     {
         public class Body
         {

@@ -13,7 +13,7 @@
     <Copyright>NS Tecnologia</Copyright>
     <RepositoryUrl>https://github.com/NSTecnologia/ns-nfe-core</RepositoryUrl>
     <RepositoryType>GitHub</RepositoryType>
-    <Version>1.0.6</Version>
+    <Version>1.0.9</Version>
     <PackageIcon>logo.png</PackageIcon>
   </PropertyGroup>
 
@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\Desktop\logo.png">
+    <None Include="..\logo.png">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>

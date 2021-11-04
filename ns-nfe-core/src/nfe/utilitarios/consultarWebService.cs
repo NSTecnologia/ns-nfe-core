@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ns_nfe_core.src.nfe.utilitarios
 {
-    class ConsultarWebService
+    public class ConsultarWebService
     {
         public class Body
         {
